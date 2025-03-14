@@ -1,0 +1,47 @@
+_repo: Legendes-canaques_75549
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Lévy-Bruhl, Lucien
+    alias: Levy-Bruhl, Lucien
+    birthdate: 1857
+    deathdate: 1939
+    gutenberg_agent_id: '48898'
+    url: http://www.gutenberg.org/2009/agents/48898
+    wikipedia: https://en.wikipedia.org/wiki/Lucien_L%C3%A9vy-Bruhl
+creator:
+  author:
+    agent_name: Baudoux, Georges
+    birthdate: 1870
+    deathdate: 1949
+    gutenberg_agent_id: '58046'
+    url: http://www.gutenberg.org/2009/agents/58046
+    wikipedia: https://fr.wikipedia.org/wiki/Georges_Baudoux
+description: ''
+edition_note: Quatrième édition
+gutenberg_issued: '2025-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75549'
+  lccn: '29012580'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=uiUHAQAAIAAJ
+pgterms:marc905: 20240614234631baudoux
+pgterms:marc906: '1928'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aParis :$bÉditions Riéder, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- New Caledonia'
+- !lcsh 'Kanak (New Caledonian people) -- Folklore'
+- !lcc 'GR'
+- GITenberg
+tableOfContents: 'Kaavo -- Flirt canaque -- Le Tayo gras -- Ce vieux Tchiao -- Le
+  dugong: Première légende. Deuxième légende.'
+title: Légendes canaques
+url: http://www.gutenberg.org/ebooks/75549
