@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '48898'
     url: http://www.gutenberg.org/2009/agents/48898
     wikipedia: https://en.wikipedia.org/wiki/Lucien_L%C3%A9vy-Bruhl
+covers:
+- cover_type: archival
+  image_path: 75549-h/images/cover.jpg
 creator:
   author:
     agent_name: Baudoux, Georges
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58046
     wikipedia: https://fr.wikipedia.org/wiki/Georges_Baudoux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75549#Legendes-canaques
 edition_note: Quatrième édition
 gutenberg_issued: '2025-03-07'
 gutenberg_type: Text
